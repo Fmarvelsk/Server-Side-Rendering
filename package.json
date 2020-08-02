@@ -1,7 +1,7 @@
 {
   "name": "a-pc",
   "version": "1.0.0",
-  "description": "A ui for promotion of lecturers",
+  "description": "Server-rendering",
   "main": "index.js",
   "scripts": {
     "dev-server": "nodemon --exec babel-node src/server.js --ignore public/",
